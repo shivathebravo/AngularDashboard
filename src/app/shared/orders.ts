@@ -8,5 +8,4 @@ export interface Order {
     fulfilled: Date;
     status: string;
 
-
 }
